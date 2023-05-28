@@ -1,5 +1,6 @@
 body,html{
     margin: 0%;
+    font-family:sans-serif;
 }
 .f{
     display:flex;
@@ -9,7 +10,6 @@ body,html{
     align-items: center;
     justify-content: center;
     font-weight: 600;
-    font-family:sans-serif;
     text-align: center;
 }
 .f1{
@@ -37,7 +37,6 @@ body,html{
     justify-content: center;
     color: #E5E7EB;
     background-color:#1F2937;
-    font-family: sans-serif;
     display: flex;
     flex-direction: row;
     height:275px;
@@ -89,7 +88,6 @@ body,html{
 .h{
     display:flex;
     flex-direction:column;
-    font-family: sans-serif;
     align-items: center;
     justify-content: center;
     gap: 30px;
@@ -129,7 +127,6 @@ caption{
     justify-content: center;
     flex-direction: column;
     height: 300px;
-    font-family: sans-serif;
 }
 .i1{
     width:825px; 
@@ -160,7 +157,6 @@ caption{
     align-items: center;
     justify-content: center;
     color:#E5E7EB;
-    font-family: sans-serif;
     gap:150px;
 }
 .j11{
